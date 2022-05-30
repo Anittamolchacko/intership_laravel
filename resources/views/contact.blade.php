@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>contact</h1>
-    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero tempora qui ad laboriosam mollitia soluta consequatur. Numquam facere labore corporis ea praesentium, corrupti ab dolor, est ipsam, accusamus explicabo suscipit?</p>
 </body>
 </html>
